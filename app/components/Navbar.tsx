@@ -16,7 +16,7 @@ export default function Navbar() {
           className="flex items-center gap-3 focus:outline-none focus-visible:ring-2 focus-visible:ring-[#183c32] focus-visible:ring-offset-2"
         >
           <Image
-            src="/logo/logo.png"
+            src="/logo/LOGO.png"
             alt="Discourse Publishers logo"
             width={56}
             height={56}
