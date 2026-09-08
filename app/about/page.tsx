@@ -22,14 +22,14 @@ name: "Momina Aamir",
 role: "Formatting Expert",
 description:
 "Handling book formatting and preparing manuscripts for professional print and digital publication.",
-image: null,
+image: "/team/Momina-aamirr.jpeg",
 },
 {
 name: "Wajeeh Aamir",
 role: "Cover Designer",
 description:
 "Handling cover creation and helping bring projects from preparation through publication.",
-image: "/team/wajeeh-aamir.jpeg",
+image: "/team/Wajeehh.png",
 },
 ];
 
